@@ -1,0 +1,145 @@
+body {
+    font-family: ;
+}
+
+.first-part {
+    background-image: url(images/donation4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 40px;
+}
+
+.heading-content {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.anchor-button {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(51, 17, 17);
+    background-image: linear-gradient(rgba(241, 130, 25, 0.904));
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.all-heading {
+    font-size: 40px;
+}
+
+.second-part {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.donate-amount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bdt {
+    width: 15%;
+    font-family: 700;
+}
+
+.selected {
+    background-color: azure;
+    padding: 30px 15px;
+    border: 1px solid;
+    color: rgb(180, 31, 31);
+
+}
+
+.food-shelter-education {
+    text-align: center;
+}
+
+.three-plans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 150px;
+
+}
+
+.food {
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 80px 20px;
+}
+
+.shelter {
+    background-color: rgb(233, 233, 84);
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 80px 20px;
+
+}
+
+.education {
+    background-color: rgb(173, 224, 207);
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 80px 20px;
+
+}
+
+.bonus-marks {
+    display: flex;
+    align-items: center;
+    margin-bottom: 90px;
+    margin-left: 20px;
+}
+
+.bonus-one {
+    margin-right: 20px;
+    width: 50%;
+}
+
+.bonus-img {
+    width: 100%;
+}
+
+.last-part {
+    text-align: center;
+}
+
+.last-part-bg {
+    margin: auto;
+    margin-bottom: 100px;
+    width: 50%;
+    padding: 30px;
+    background-color: antiquewhite;
+}
+
+.type-your-mail {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+
+.mail {
+    background-color: rgb(184, 159, 159);
+    width: 100px;
+}
+
+.subscribe {
+    color: whitesmoke;
+}
+
+.footer {
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+footer h1 {
+    color: red;
+    font-family: 'Edu QLD Beginner', cursive;
+}
